@@ -27,6 +27,10 @@ specify `http` port and `https` port:
 
     $ sudo tunnels 4567 443
 
+Using with rvm, you should use `rvmsudo` command instad `sudo`.
+
+    $ rvmsudo tunnels
+
 Copyright
 ---------
 
